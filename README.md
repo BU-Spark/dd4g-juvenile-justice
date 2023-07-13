@@ -28,6 +28,11 @@
 ## Arrest and Discipline Graphical Dashboard
 - Link: [Arrest and Discipline Graphical Dashboard](https://public.tableau.com/app/profile/vani.singhal1240/viz/ddfg-JuvenileJustice/ArrestandDisciplineGraphicalDashboard)
 
+# Presentation
+
+You can access our project presentation on Google Drive:
+- [Presentation Drive Link](https://docs.google.com/presentation/d/17WKkzSekwHNmWBFqcZm2-1VPGhD8rAwu/edit?usp=sharing&ouid=102924163747346088685&rtpof=true&sd=true)
+
 # Future Scope
 
 - Having a larger sample size over an extended period allows for a more comprehensive analysis of the data and improves the ability to observe patterns and make reliable conclusions.
