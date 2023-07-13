@@ -1,24 +1,38 @@
 # Project Information
 
-## Student Team
-- Abhishek Malakar
-- Vani Singhal
-- Anargh Sidhardhan
-- Zula Nyamtur
-- Anshi Mittal
-- Jonathan Joseph
-- Yuhang Song
-
-## Led by
-- Michael Hajjar
-- Kapil Chauhan
-- Josh Minot
-- Ethan Jampel
-- Mary Ellen Sullivan
-- Ziba Cranmer
+## Project Goal
+The goal of our project is to understand patterns and linkages between school discipline data, federal social welfare support programs, and school arrests in Massachusetts.
 
 ## Client
-- CfJJ - Erin Stewart
+- Citizens for Juvenile Justice (CFJJ) - Erin Stewart
+
+## Student Team
+- Abhishek Malakar (Boston University)
+- Vani Singhal (Boston University)
+- Anargh Sidhardhan (Boston University)
+- Zula Nyamtur (Boston University)
+- Anshi Mittal (Boston University)
+- Jonathan Joseph (Boston University)
+- Yuhang Song (Boston University)
+
+## Led by
+- Michael Hajjar (Mass Mutual)
+- Kapil Chauhan (Mass Mutual)
+- Josh Minot (Mass Mutual)
+- Ethan Jampel (Mass Mutual)
+- Mary Ellen Sullivan (Mass Mutual)
+- Ziba Cranmer (Boston University Spark)
+
+# Data Assumptions
+
+## DESE Discipline Data
+- Assumption: Blank rows in the "Students With Disability," "English Learner," and "Economically Disadvantaged" columns are considered as scenarios where it may or may not be applicable.
+
+## School Arrest Data
+- Assumption: Rows with single characters "F," "M," "T," and "V" in the "Category of Arrest" column are interpreted as "Felony," "Misdemeanor," "Theft," and "Vandalism," respectively.
+
+## AFCARS Data
+- Assumption: For "Total Removal" and "Removal Reason," it refers to the removal from the primary home into the Foster Care system.
 
 # Tableau Dashboards
 
